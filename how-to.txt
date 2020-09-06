@@ -1,0 +1,13 @@
+copy both scripts 
+1. thebash.sh
+2. index.html
+
+both script need to keep there names and be in the same folder.
+right click in the folder and choose open in terminal.
+
+type in terminal:  chmod +x thebash.sh
+type in terminal:  chmod +x index.html
+
+type in terminal:  ./thebash.sh
+and
+press enter to view the index.html file.
